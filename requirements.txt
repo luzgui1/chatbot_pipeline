@@ -1,0 +1,7 @@
+kagglehub
+qdrant-client
+pytorch
+sentence-transformers
+pandas
+kaggle
+polars
