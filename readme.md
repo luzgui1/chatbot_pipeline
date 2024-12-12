@@ -44,8 +44,8 @@ This project demonstrates how to automate a pipeline using Docker and Qdrant for
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/luzgui1/chatbot_pipeline.git
+   cd chatbot_pipeline
    ```
 
 2. Install Python dependencies:
