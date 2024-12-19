@@ -1,3 +1,0 @@
-conda activate assistant_env
-conda install -c conda-forge requirements.txt
-python pipeline_execute.py
